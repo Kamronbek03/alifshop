@@ -113,7 +113,7 @@ function Footer() {
           </div>
           <div className="line__footer"></div>
           <div className="about">
-            <p>2023 © alifshop.uz</p>
+            <p>2024 © alifshop.uz</p>
             <img src={yandexImg} alt="yandex img" />
           </div>
         </div>
